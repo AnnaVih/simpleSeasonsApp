@@ -25,6 +25,10 @@
     height: 100vh;
 }
 
+.season-content {
+    text-align: center;
+}
+
 .winter {
     background-color: aliceblue;
 }
