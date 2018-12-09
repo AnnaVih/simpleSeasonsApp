@@ -19,7 +19,7 @@ git clone https://github.com/AnnaVih/simpleSeasonsApp.git
 ```
 Then to update :
 ```bash
-cd seasons
+cd simpleSeasonsApp-master
 git pull
 ```
 
