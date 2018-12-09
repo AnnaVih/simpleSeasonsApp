@@ -1,5 +1,6 @@
 {
   "name": "seasons",
+  "description": "Simple Seasons app written just in pure React. By getting user geolocation and current date it should display the Summer or Winter season",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
